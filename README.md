@@ -1,6 +1,6 @@
 senior hdmi developer
 
-25y.o
+4y.o
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Ayni9)](https://github.com/Ayni9)
 
