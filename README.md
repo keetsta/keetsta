@@ -1,4 +1,4 @@
-hi! i am junior ios developer, working on HDRezka rn
+hi! i am ios developer, working on HDRezka rn
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=keetsta)](https://github.com/keetsta)
 
